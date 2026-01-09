@@ -1,6 +1,6 @@
 ## Olá, eu me chamo Phelipe! 👋
 
-Atualmente cursando o Ensino Médio Técnico em TI e focado em construir minha carreira no desenvolvimento de software. Estou em busca da minha primeira oportunidade como Estagiário de TI para aplicar meus conhecimentos e evoluir tecnicamente.
+Atualmente cursando TI e focado em construir minha carreira no desenvolvimento de software. Estou em busca da minha primeira oportunidade como Estagiário de TI para aplicar meus conhecimentos e evoluir tecnicamente.
 
 🚀 Estudando: C#
 
